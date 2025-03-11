@@ -4,9 +4,9 @@ Modeling Decision Logic System using Simulation Blocks.
 
 Author: Abdel-Rahman al-Hanafi
 
-The folder contains:
+This folder contains:
 - The simulation files - Modeling/Simulation/MIL/SIL.
-- Code genrated .C/.H files.
+- Code generated in .C/.H files.
 - Results screenshots.
 
 
